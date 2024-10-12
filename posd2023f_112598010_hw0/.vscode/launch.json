@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/linjiancheng/Desktop/碩士資料/POSD/posd2023f_hw/posd2023f_112598010_hw0/src",
+      "program": "/Users/linjiancheng/Desktop/碩士資料/POSD/posd2023f_hw/posd2023f_112598010_hw0/src/build/Debug/outDebug"
+    }
+  ]
+}
